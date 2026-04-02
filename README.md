@@ -22,10 +22,10 @@ To recognize handwritten digits (0–9) using deep learning.
 ## 📷 Visualizations
 
 ### Accuracy Graph
-![Accuracy](images/accuracy.png)
+![Accuracy](images/Accuracy_Graph.png)
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/Confusion_Matrix.png)
 
 ## 🛠 Technologies Used
 - Python
